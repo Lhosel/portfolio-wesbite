@@ -1,0 +1,31 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+embed {
+    width: 100%;
+    height: 650px;
+}
+
+footer {
+    position: absolute;
+    margin-top: 17px;
+    width: 100vw;
+    padding-top: 40px;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

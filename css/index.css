@@ -1,0 +1,49 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.img-align {
+    margin-left: 150px;
+    margin-top: -20px;
+}
+
+footer {
+    position: absolute;
+    margin-top: 300px;
+    width: 100vw;
+    padding-top: 40px;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    background: #6677EA;
+    width: 130px;
+    height: 50px;
+    color: #FFFF;
+    cursor: pointer;
+    border: none;
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+button:hover {
+    background: #4b57a8;
+    transition: 0.2s;
+}
+
+button:active {
+    transform: scale(0.98);
+}
