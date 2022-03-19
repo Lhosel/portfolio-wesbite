@@ -58,6 +58,11 @@
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
 
+.card-btn a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
 footer {
     position: absolute;
     margin-top: 173px;
